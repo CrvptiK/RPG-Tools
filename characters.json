@@ -1,0 +1,105 @@
+{
+    "characters": [
+        {
+            "name": "Aldric Morgan",
+            "folder": "aldric-morgan",
+            "portrait": "characters/aldric-morgan/images/Token.png",
+            "keywords": [
+                "Non-DND",
+                "Delta Green",
+                "Horror"
+            ]
+        },
+        {
+            "name": "Cain",
+            "folder": "cain",
+            "portrait": "characters/cain/images/New Token Art.PNG",
+            "keywords": [
+                "Mutant Year Zero",
+                "Non-DND"
+            ]
+        },
+        {
+            "name": "Caligo",
+            "folder": "caligo",
+            "portrait": "characters/caligo/images/Token.PNG",
+            "keywords": [
+                "DND",
+                "Steinhardt's",
+                "Warlock",
+                "Horror"
+            ]
+        },
+        {
+            "name": "Hermes",
+            "folder": "hermes",
+            "portrait": "characters/hermes/images/Hermes Token.png",
+            "keywords": [
+                "Non-DND",
+                "Vampire The Masquerade",
+                "Horror"
+            ]
+        },
+        {
+            "name": "Misere",
+            "folder": "misere",
+            "portrait": "characters/misere/images/Token.PNG",
+            "keywords": [
+                "DND",
+                "Zarathur",
+                "Gambler"
+            ]
+        },
+        {
+            "name": "Nathaniel Duskwright",
+            "folder": "nathaniel-duskwright",
+            "portrait": "characters/nathaniel-duskwright/images/Token.PNG",
+            "keywords": [
+                "DND",
+                "Icewind Dale",
+                "Investigator"
+            ]
+        },
+        {
+            "name": "Nox",
+            "folder": "nox",
+            "portrait": "characters/nox/images/token_1.PNG",
+            "keywords": [
+                "DND",
+                "Steinhardt's",
+                "Rogue"
+            ]
+        },
+        {
+            "name": "Sylas Clair",
+            "folder": "sylas-clair",
+            "portrait": "characters/sylas-clair/images/resize_blue.png",
+            "keywords": [
+                "Non-DND",
+                "Vampire The Masquerade",
+                "Horror"
+            ]
+        },
+        {
+            "name": "Symbiote",
+            "folder": "symbiote",
+            "portrait": "characters/symbiote/images/Corrhin.PNG",
+            "keywords": [
+                "DND",
+                "Icewind Dale",
+                "Druid"
+            ]
+        },
+        {
+            "name": "Wilhelm Ambrosius Eisenheart",
+            "folder": "wilhelm-ambrosius-eisenheart",
+            "portrait": "characters/wilhelm-ambrosius-eisenheart/images/Token Masked.PNG",
+            "keywords": [
+                "DND",
+                "Steinhardt's",
+                "Artificer",
+                "Horror"
+            ]
+        }
+    ]
+}

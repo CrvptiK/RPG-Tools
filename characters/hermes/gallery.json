@@ -1,0 +1,36 @@
+{
+    "media": [
+        {
+            "type": "image",
+            "src": "images/Hermes full art, masked.png"
+        },
+        {
+            "type": "image",
+            "src": "images/Hermes sketches 1.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Hermes sketches 2.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Hermes sketches 3.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Hermes sketches masked.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Hermes Token.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Hermes_Queen of Hearts.png"
+        },
+        {
+            "type": "image",
+            "src": "images/The Reckless 7.PNG"
+        }
+    ]
+}

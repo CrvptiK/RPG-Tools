@@ -1,0 +1,32 @@
+{
+    "media": [
+        {
+            "type": "image",
+            "src": "images/Collage.jpg"
+        },
+        {
+            "type": "image",
+            "src": "images/Design Sheet.jpg"
+        },
+        {
+            "type": "image",
+            "src": "images/Expressions.jpg"
+        },
+        {
+            "type": "image",
+            "src": "images/Fine Clothes.JPEG"
+        },
+        {
+            "type": "image",
+            "src": "images/More.JPEG"
+        },
+        {
+            "type": "image",
+            "src": "images/Nat Tattoo Design.png"
+        },
+        {
+            "type": "image",
+            "src": "images/Token.PNG"
+        }
+    ]
+}

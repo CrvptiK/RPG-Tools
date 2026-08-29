@@ -1,0 +1,48 @@
+{
+    "media": [
+        {
+            "type": "image",
+            "src": "images/col blue.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/col green.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/col orange.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/col pink.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/col purple.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/col red.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/col turquoise.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/col yellow.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/ref.JPEG"
+        },
+        {
+            "type": "image",
+            "src": "images/ref2.JPEG"
+        },
+        {
+            "type": "image",
+            "src": "images/resize_blue.PNG"
+        }
+    ]
+}

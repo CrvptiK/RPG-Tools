@@ -1,0 +1,62 @@
+# Nathaniel Duskwright
+
+## General
+
+- Age: 18
+- Class: Investigator
+- Lineage: Tiefling
+- Concept: from "scared of everything" to "fights a god"
+
+## Portrait
+
+Token.PNG
+
+## Keywords
+
+- DND
+- Icewind Dale
+- Investigator
+
+## Backstory
+
+### Travel to the Ten Towns
+
+“So, how come someone like you finds themselves in the Ten Towns?”, the city guard looked him up and down curiously. Nathaniel merely stared for a few eternal heartbeats. He figured the woman scrutinising him could not care less, or maybe she was waiting for a trip-up, something to betray his guilt. Clearing their throat, Nat spoke up, “I just needed a change.”
+
+He looked over his shoulder, panic rising in his throat like bile, fear making his hands shake. Tears clouded his vision, as he desperately tried to pinpoint if the Stadwatch was still behind him. He just wanted to help, he just wanted to do the right thing. Instead of helping, he had made everything worse. Lucien should have known someone like Horatio could never trust- never accept what he was. Son of a Grand Bloodletter. His father was a monster, and so was Lucien, no matter how hard he tried not to be what was expected of him.
+
+The tome weighed heavy at his side. He knew he had to take it away from here. The desperate hope that Horatio might help him, would be on his side, that they could run together, had shattered into a thousand tiny pieces, crushed and broken. Horatio had called out to the Stadwatch, upon realising who his friend truly was, realising that he had lied to him. And he had been right to do so. Lucien bit his tongue, as a sob crawled up his throat. Run! His mind screamed at him. And finally, after hesitating for another beat, that felt like eternity, he pushed to his feet, and he ran.
+
+“And you picked the Ten Towns of all places”, she chuckled darkly, shaking her head. The young Tiefling glanced at the city behind her, then to the road, then back to her. “If you hate it so much- why- why do you stay?” She regarded him for another moment, causing him to wring his hands, shifting his weight nervously. Why did he always have to run his mouth? Why not stay quiet? His father was right, it was his worst, most annoying feature, he was- The guard shook her head, stepping aside to let them pass. “Welcome to Bryn Shander.”
+
+He slipped past her, eyes trailing down the roads, trying to ignore the walls, trying not to feel trapped, caught in yet another web. No one here knew who he was, not a single soul spared him a second glance. It felt freeing. Maybe here he would be safe. At least for a moment. And yet, deep down, another feeling clawed at him. For the first time ever, he was all alone.
+
+### The Blood In Our Veins
+
+“Such a sweet kid”, “So well behaved for his young years”, “What a bright boy”, “Such a shame”
+Lucien Findris. Son of the Grand Bloodletter of Selgaunt. Born into the Church of Bane, born a Tiefling, born for greatness. And yet-
+“Lucien!”, his father – Aron Findris a man demanding respect, demanding fear, and most of all obedience – caught him by the scruff, dragging him closer. The desk between them caused the young boy to topple, as he was forced down, his temple painfully colliding with the dark wood, locked in place by his father’s hand. The candle flickering lazily beside him shook with the force of the impact, its heat filling the small space between itself and the fourteen-year-old.
+
+“When I tell you to do something, what is your answer?”, his hand pressed down. Lucien choked for air, biting down a sob that crawled up his throat. He was too old to cry. He was too old for mistakes.
+“Yes- sir”, he had to bite out the words, the air in his lungs running out. When finally, his father let go, Lucien was crying. His grasped his throat, head hovering just above the wooden desk, keeping his gaze down so his father would not see.
+“And what will you do?”, he had turned his back, Lucien could hear it in his voice, finally daring to look up. Something glinted against the dark beyond the window.
+“I- will do whatever you say, sir.”
+“Without question?”, his father – a man towering above everyone else, always victorious, and with many scars to prove the fact – turned around slowly. Lucien’s eyes locked back on the table. He lowered his head.
+“Without question.”
+
+They stood like that for a few long heartbeats. All of which screamed in Lucien’s head, drowning out his previously fast-paced thoughts.
+“Place your hand on the desk.” He could not help but look up, upon hearing the instruction, confusion evident on his face, as his father waited, brows furrowing impatiently.
+And thus, Lucien did as he was told. He placed his flat palm against the surface of the table, looking back up at his father, awaiting whatever came next.
+A glint of metal, a quick movement and a blinding pain followed. Blood coated his hand and slowly trickled onto the desk, dousing it in deep red. A dagger pinned Lucien’s hand to the desk, locking him in place. He opened his mouth, but was immediately shut up by a bellowed “Silence! I don’t want to hear a sound from you.”
+And thus, Lucien bit his tongue and stayed quiet, biting back tears, as he waited for his father to show mercy.
+
+## NPCs
+
+### Aron Findris
+
+Grand Bloodletter of Selgaunt, famous for his unyielding cruelty, one of the heads of the city, controlling massive parts of the great criminal underground and Nat's father. 
+
+## Various
+
+not much to see here
+

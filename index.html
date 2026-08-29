@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>RPG Tools</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>HOME</h1>
+
+<nav>
+
+<a href="index.html">Home</a>
+<a href="characters.html">Characters</a>
+<a href="worlds.html">Worlds</a>
+
+<div class="nav-dropdown">
+
+    <a href="#" id="creation-toggle">Creation +</a>
+
+    <div id="creation-menu" class="creation-menu">
+
+        <a href="creation/character-quiz.html">
+            Character Quiz
+        </a>
+
+        <a href="creation/skilltree-designer.html">
+            Skilltree Designer
+        </a>
+
+        <a href="creation/family-tree-designer.html">
+            Family Tree Designer
+        </a>
+
+        <a href="creation/timeline-designer.html">
+            Timeline Designer
+        </a>
+
+    </div>
+
+</div>
+
+<a href="about.html">About</a>
+
+</nav>
+
+</header>
+
+<section class="about">
+
+    <h2>Welcome, Traveller!</h2>
+
+    <p> Welcome to RPG Tools, though currently, a more fitting name might be Character Archive...
+        <br></br>
+        Anyhoot. Below you can find some characters. If you want to search via keywords, check out the Characters tab up in the navigation bar ;))
+        <br> Everything else... Well, let's just say this page is still under construction :'))
+    </p>
+
+</section>
+
+<section class="entry">
+
+<h2 id="characters-toggle">Characters +</h2>
+
+</section>
+
+<section class="gallery" id="character-gallery">
+
+    <!-- CHARACTER GALLERY START -->
+
+
+
+<a
+    href="characters/aldric-morgan/character.html"
+    class="character-card"
+>
+
+    <img
+        src="characters/aldric-morgan/images/Token.png"
+        alt="Aldric Morgan"
+        loading="lazy"
+    >
+
+    <div class="overlay">
+        Aldric Morgan
+    </div>
+
+</a>
+
+
+
+
+<a
+    href="characters/cain/character.html"
+    class="character-card"
+>
+
+    <img
+        src="characters/cain/images/New Token Art.PNG"
+        alt="Cain"
+        loading="lazy"
+    >
+
+    <div class="overlay">
+        Cain
+    </div>
+
+</a>
+
+
+
+
+<a
+    href="characters/caligo/character.html"
+    class="character-card"
+>
+
+    <img
+        src="characters/caligo/images/Token.PNG"
+        alt="Caligo"
+        loading="lazy"
+    >
+
+    <div class="overlay">
+        Caligo
+    </div>
+
+</a>
+
+
+
+
+<a
+    href="characters/hermes/character.html"
+    class="character-card"
+>
+
+    <img
+        src="characters/hermes/images/Hermes Token.png"
+        alt="Hermes"
+        loading="lazy"
+    >
+
+    <div class="overlay">
+        Hermes
+    </div>
+
+</a>
+
+
+
+
+<a
+    href="characters/misere/character.html"
+    class="character-card"
+>
+
+    <img
+        src="characters/misere/images/Token.PNG"
+        alt="Misere"
+        loading="lazy"
+    >
+
+    <div class="overlay">
+        Misere
+    </div>
+
+</a>
+
+
+
+
+<a
+    href="characters/nathaniel-duskwright/character.html"
+    class="character-card"
+>
+
+    <img
+        src="characters/nathaniel-duskwright/images/Token.PNG"
+        alt="Nathaniel Duskwright"
+        loading="lazy"
+    >
+
+    <div class="overlay">
+        Nathaniel Duskwright
+    </div>
+
+</a>
+
+
+
+
+<a
+    href="characters/nox/character.html"
+    class="character-card"
+>
+
+    <img
+        src="characters/nox/images/token_1.PNG"
+        alt="Nox"
+        loading="lazy"
+    >
+
+    <div class="overlay">
+        Nox
+    </div>
+
+</a>
+
+
+
+
+<a
+    href="characters/sylas-clair/character.html"
+    class="character-card"
+>
+
+    <img
+        src="characters/sylas-clair/images/resize_blue.png"
+        alt="Sylas Clair"
+        loading="lazy"
+    >
+
+    <div class="overlay">
+        Sylas Clair
+    </div>
+
+</a>
+
+
+
+
+<a
+    href="characters/symbiote/character.html"
+    class="character-card"
+>
+
+    <img
+        src="characters/symbiote/images/Corrhin.PNG"
+        alt="Symbiote"
+        loading="lazy"
+    >
+
+    <div class="overlay">
+        Symbiote
+    </div>
+
+</a>
+
+
+
+
+<a
+    href="characters/wilhelm-ambrosius-eisenheart/character.html"
+    class="character-card"
+>
+
+    <img
+        src="characters/wilhelm-ambrosius-eisenheart/images/Token Masked.PNG"
+        alt="Wilhelm Ambrosius Eisenheart"
+        loading="lazy"
+    >
+
+    <div class="overlay">
+        Wilhelm Ambrosius Eisenheart
+    </div>
+
+</a>
+
+
+
+<!-- CHARACTER GALLERY END -->
+
+</section>
+
+<section class="entry">
+
+    <h2 id="worlds-toggle">Worlds +</h2>
+
+</section>
+
+<section class="world-gallery">
+
+    <a href="worlds/world-a.html" class="world-card">
+        <img loading="lazy" src="images/placeholder.jpg" alt="World A">
+        <h3>World A</h3>
+    </a>
+
+</section>
+
+
+<footer>
+
+RPG Tools<br>
+CryptiK
+
+</footer>
+
+<script>
+
+const characterToggle = document.getElementById("characters-toggle");
+const characterGallery = document.querySelector(".gallery");
+
+characterToggle.addEventListener("click", () => {
+
+    characterGallery.classList.toggle("open");
+
+    characterToggle.textContent =
+        characterGallery.classList.contains("open")
+        ? "Characters -"
+        : "Characters +";
+
+});
+
+
+const worldsToggle = document.getElementById("worlds-toggle");
+const worldsGallery = document.querySelector(".world-gallery");
+
+worldsToggle.addEventListener("click", () => {
+
+    worldsGallery.classList.toggle("open");
+
+    worldsToggle.textContent =
+        worldsGallery.classList.contains("open")
+        ? "Worlds -"
+        : "Worlds +";
+
+});
+
+const creationToggle =
+    document.getElementById("creation-toggle");
+
+const creationMenu =
+    document.getElementById("creation-menu");
+
+creationToggle.addEventListener("click", function(event){
+
+    event.preventDefault();
+
+    creationMenu.classList.toggle("open");
+
+    if(creationMenu.classList.contains("open")){
+
+        creationToggle.textContent = "Creation -";
+
+    }else{
+
+        creationToggle.textContent = "Creation +";
+
+        }
+
+});
+
+</script>
+
+</body>
+</html>

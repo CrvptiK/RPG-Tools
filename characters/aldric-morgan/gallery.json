@@ -1,0 +1,24 @@
+{
+    "media": [
+        {
+            "type": "image",
+            "src": "images/Aldric.png"
+        },
+        {
+            "type": "image",
+            "src": "images/IMG_2786.png"
+        },
+        {
+            "type": "image",
+            "src": "images/IMG_2801.png"
+        },
+        {
+            "type": "image",
+            "src": "images/IMG_2826.JPEG"
+        },
+        {
+            "type": "image",
+            "src": "images/Token.png"
+        }
+    ]
+}

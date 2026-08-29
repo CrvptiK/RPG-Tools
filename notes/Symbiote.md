@@ -1,0 +1,60 @@
+# Symbiote
+
+## General
+
+- Age: 43
+- Class: Circle of Symbiosis Druid
+- Lineage: Human (formerly), Lesevoia
+- Concept: A Monster learning how to be human again
+
+## Portrait
+
+Corrhin.PNG
+
+## Keywords
+
+- DND
+- Icewind Dale
+- Druid
+
+## Backstory
+
+### Summary
+
+Corrhin Slatehide grew up as the older brother of two in the forest town of Lonelywood. His father, a hunter, died when he was merely 5 – at least that was what he was told, he found out later, that his father left the family behind. Despite his mother taking issue with it, Corrhin became a hunter, whereas his brother, Mendin, grew into their mother’s position as one of the town’s few merchants.
+
+Shortly after the curse struck Icewind Dale, Corrhin set out to hunt a beast threatening their town’s safety. Despite not wanting to allow it, Ianto, his son, joined the group. 
+But picking this fight soon turned out to be a mistake. Despite his father’s best attempts, Ianto died, trying to slay the monster. The fight was won but the price far too high to pay. And upon return to the cave entrance, the group realised they had been trapped by the ice. Neither fire, nor other magic served any purpose, swallowed by the ice, like it was a living being. 
+
+Trapped in the dark and cold, the group fought to stay alive. They could not hunt. The monster’s corpse was not only burnt but wholly inedible, causing two of theirs to get increasingly sick. Desperation clawed at every one of them. Corrhin, despite being their leader – now suddenly a grieving father – offered no comfort, no hope to his team in their trying times. 
+After almost two months, living off of heated up ice, running out of magic and spare material to keep them warm, starving and hopeless, one of them, Eisken, suggested the unimaginable. Dig out Ianto, whose body could not have decomposed too much in the icy cold. Corrhin refused.
+
+The fight that resulted cost Eisken his life and chaos ensued. No one dared to trust one another, after Eisken’s body had been torn up without any sign of the missing pieces in the cave, during the night. Everyone blamed everyone and slowly but surely all of them realised the only way to get back home and to possibly survive this, would be to end their friends and eat them. 
+Slowly but surely, the group that had started with six people dwindled in number. First was Ianto, buried in the depths of the cave, his father guarding his grave with his own life. Second was Eisken, paying for his suggestion. Then came Lucien, killed by her friends, while she slept. Velcor and Bena, who had been working away at the ice wall, covering the cave entrance offered their captain a chance to survive, promising peace between the three, if they worked together to get out. 
+
+Time passed, enough for the hunger to return, for the bones of their friends to start taunting them, blaming them, cursing them. For the three to slowly loose hope. And when Velcor and Bena decided they had to get out, no matter the cost, another fight became inevitable. Before the blade could slit through their captain’s throat, he woke from his sleep. And the blade drew its owner’s blood instead. When Velcor hit the floor, Bena had turned to run, vanishing into the depths of the cave. But Corrhin would not let her off that easily. He followed, calling out to her, filling the freezing air with false promises of safety. When he found her, she begged. He did not have to kill her. They could get out together, the whole she and Velcor had carved was almost big enough to get out. Only a few more days and they could both walk free. But he only shook his head, watching her calmly, his eyes unlike his own. That was when she knew, he did not do this only to survive. He enjoyed this. And when she took her shot, trying to drive one of the arrows from her quiver through his chest but missing by but an inch, her time had come. He raised his sword, cleaving cleanly through her skull, watching her body falter only when he tore it back. After all, Corrhin had to get home. He had to return to his family. To his son. 
+
+The cave filled with the smell of blood, the silence of death clinging to him, making the voices in his head grow even louder. When the last inches of ice finally cracked and fresh air hit his senses, he could hardly believe it to be real. Trapped in the dark, alone, surrounded by enemies, for five months, Corrhin could not even remember his name. But he remembered his family. He remembered Ianto. 
+When Lonelywood came into view, relief flooded him. He recognised the roofs, the tight streets, the pond in the close distance, the tall, sturdy trees. But with this recognition, another feeling flared up inside of him. Hunger. All consuming, mind-numbing hunger. 
+He dragged himself towards the town. He had to tell them he had killed the beast, had to tell them they were safe. His feet left uneven tracks in the snow, claws dragging through its perfectly pristine surface, leaving long, angry scratches in the white. 
+
+When he arrived, his family house, at the very outskirts of the town just within reach, a horrific noise cut through the air. A child’s scream, a wail cutting through the gloom only seconds later. The being that had once been Corrhin turned, spotting the child. He wanted to tell them everything would be alright. There was nothing to fear. Now that the beast was dead, Lowk would be safer. But before he could take a single step towards the kid, he was struck by something. An arrow was stuck in his shoulder, as he turned to see. Standing only a few feet from him was Mendin, flanked by two townsmen, one holding a bow, the other raising her sword in his direction. 
+He took a step back, “Mendin.” 
+His voice sounded foreign, even to himself, grating, heaving, breathy; unfamiliar. Mendin raised his sword to his brother’s face. He did not recognise him, none of them did. When Mendin stepped closer, sword raised to strike, the beast, no longer Corrhin Slatehide, no longer human, ran. 
+
+He stopped at the lake, and as he passed over the snow-covered ice, he caught a glimpse of himself. And he did not recognise himself.
+
+## NPCs
+
+### Mendin Slatehide
+
+Brother of Corrhin and successful merchant in Lonelywood
+
+### Ianto Slatehide
+
+Corrhin's son, who found his early death during a hunt gone wrong
+
+## Various
+
+old character, no longer being played, canon to our Icewind Dale Run
+

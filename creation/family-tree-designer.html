@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Family Tree Designer</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>CREATION</h1>
+
+<nav>
+
+<a href="../index.html">Home</a>
+
+<a href="../characters.html">Characters</a>
+
+<a href="../worlds.html">Worlds</a>
+
+<div class="nav-dropdown">
+
+    <a href="#" id="creation-toggle">Creation +</a>
+
+    <div id="creation-menu" class="creation-menu">
+
+        <a href="creation/character-quiz.html">
+            Character Quiz
+        </a>
+
+        <a href="creation/skilltree-designer.html">
+            Skilltree Designer
+        </a>
+
+        <a href="creation/timeline-designer.html">
+            Timeline Designer
+        </a>
+
+    </div>
+
+</div>
+
+<a href="../about.html">About</a>
+
+</nav>
+
+</header>
+
+
+<main class="page">
+
+<h2>Family Tree Designer</h2>
+
+
+<img
+    class="construction-image"
+    src="../images/under-construction.jpg"
+    alt="Family Tree Designer tba, under construction graphic"
+>
+
+
+<button class="plans-button" id="plans-toggle">
+
+    Sneak Peek
+
+</button>
+
+
+<div class="plans" id="plans">
+
+    <img
+        src="../images/family-tree-designer-plan-1.jpg"
+        alt="Sneak Peek, not much here yet"
+    >
+
+    <img
+        src="../images/family-tree-designer-plan-2.jpg"
+        alt="Sneak Peek, not much here yet"
+    >
+
+</div>
+
+</main>
+
+
+<footer>
+
+RPG Tools<br>
+CryptiK
+
+</footer>
+
+
+<script>
+
+const plansToggle =
+    document.getElementById("plans-toggle");
+
+const plans =
+    document.getElementById("plans");
+
+
+plansToggle.addEventListener("click", function(){
+
+    plans.classList.toggle("open");
+
+
+    if(plans.classList.contains("open")){
+
+        plansToggle.textContent = "Hide";
+
+    }else{
+
+        plansToggle.textContent = "Show Me Again";
+
+    }
+
+});
+
+const creationToggle =
+    document.getElementById("creation-toggle");
+
+const creationMenu =
+    document.getElementById("creation-menu");
+
+creationToggle.addEventListener("click", function(event){
+
+    event.preventDefault();
+
+    creationMenu.classList.toggle("open");
+
+    if(creationMenu.classList.contains("open")){
+
+        creationToggle.textContent = "Creation -";
+
+    }else{
+
+        creationToggle.textContent = "Creation +";
+
+        }
+
+});
+
+</script>
+
+</body>
+
+</html>

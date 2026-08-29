@@ -1,0 +1,36 @@
+{
+    "media": [
+        {
+            "type": "image",
+            "src": "images/Banner.png"
+        },
+        {
+            "type": "image",
+            "src": "images/Collage.JPEG"
+        },
+        {
+            "type": "image",
+            "src": "images/Token default.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Token Masked.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Wil Outfit Concepts.png"
+        },
+        {
+            "type": "image",
+            "src": "images/Wil pt1.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Wil pt2.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Wil test art.png"
+        }
+    ]
+}
