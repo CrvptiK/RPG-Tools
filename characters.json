@@ -13,7 +13,7 @@
         {
             "name": "Cain",
             "folder": "cain",
-            "portrait": "characters/cain/images/Token Art.PNG",
+            "portrait": "characters/cain/images/Token.PNG",
             "keywords": [
                 "Mutant Year Zero",
                 "Non-DND"
@@ -63,7 +63,7 @@
         {
             "name": "Nox",
             "folder": "nox",
-            "portrait": "characters/nox/images/token.PNG",
+            "portrait": "characters/nox/images/Token.PNG",
             "keywords": [
                 "DND",
                 "Steinhardt's",
