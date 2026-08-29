@@ -774,7 +774,7 @@ function displayBackstory(character) {
                 const paragraph =
                     document.createElement("p");
 
-                paragraph.textContent = text;
+                paragraph.innerHTML = text;
 
                 content.appendChild(paragraph);
 
@@ -839,7 +839,7 @@ function displayNPCs(character) {
             document.createElement("h3");
 
 
-        name.textContent =
+        name.innerHTML =
             npc.name;
 
 
@@ -847,7 +847,7 @@ function displayNPCs(character) {
             document.createElement("p");
 
 
-        description.textContent =
+        description.innerHTML =
             npc.description;
 
 

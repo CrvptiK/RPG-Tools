@@ -2,7 +2,7 @@
 
 ## General
 
-- Age: 43
+- Age: 51
 - Class: Circle of Symbiosis Druid
 - Lineage: Human (formerly), Lesevoia
 - Concept: A Monster learning how to be human again
