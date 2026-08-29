@@ -1,6 +1,10 @@
 {
     "media": [
         {
+            "type": "video",
+            "src": "images/animatic punching bag vers.MP4"
+        },
+        {
             "type": "image",
             "src": "images/col blue.PNG"
         },
@@ -31,6 +35,10 @@
         {
             "type": "image",
             "src": "images/col yellow.PNG"
+        },
+        {
+            "type": "video",
+            "src": "images/Headlock - Sylas edit.mp4"
         },
         {
             "type": "image",
