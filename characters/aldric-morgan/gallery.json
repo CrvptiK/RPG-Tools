@@ -19,6 +19,10 @@
         {
             "type": "image",
             "src": "images/Token.png"
+        },
+        {
+            "type": "video",
+            "src": "images/You Are Glass - Morgan Brothers (OC animatic).mp4"
         }
     ]
 }
