@@ -13,7 +13,7 @@
         {
             "name": "Cain",
             "folder": "cain",
-            "portrait": "characters/cain/images/New Token Art.PNG",
+            "portrait": "characters/cain/images/Token Art.PNG",
             "keywords": [
                 "Mutant Year Zero",
                 "Non-DND"
@@ -33,7 +33,7 @@
         {
             "name": "Hermes",
             "folder": "hermes",
-            "portrait": "characters/hermes/images/Hermes Token.png",
+            "portrait": "characters/hermes/images/Token.PNG",
             "keywords": [
                 "Non-DND",
                 "Vampire The Masquerade",
@@ -63,7 +63,7 @@
         {
             "name": "Nox",
             "folder": "nox",
-            "portrait": "characters/nox/images/token_1.PNG",
+            "portrait": "characters/nox/images/token.PNG",
             "keywords": [
                 "DND",
                 "Steinhardt's",
@@ -73,7 +73,7 @@
         {
             "name": "Sylas Clair",
             "folder": "sylas-clair",
-            "portrait": "characters/sylas-clair/images/resize_blue.png",
+            "portrait": "characters/sylas-clair/images/Token.PNG",
             "keywords": [
                 "Non-DND",
                 "Vampire The Masquerade",

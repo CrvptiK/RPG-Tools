@@ -9,7 +9,7 @@
 
 ## Portrait
 
-Hermes Token.png
+Token.PNG
 
 ## Keywords
 

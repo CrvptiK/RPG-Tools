@@ -9,7 +9,7 @@
 
 ## Portrait
 
-resize_blue.png
+Token.PNG
 
 ## Keywords
 

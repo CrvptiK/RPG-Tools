@@ -9,7 +9,7 @@
 
 ## Portrait
 
-token_1.PNG
+token.PNG
 
 ## Keywords
 

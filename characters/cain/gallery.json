@@ -34,19 +34,19 @@
         },
         {
             "type": "image",
-            "src": "images/Cain Token Art.PNG"
-        },
-        {
-            "type": "image",
             "src": "images/Collage.JPEG"
         },
         {
             "type": "image",
-            "src": "images/New Token Art.png"
+            "src": "images/old token.PNG"
         },
         {
             "type": "image",
             "src": "images/Quotes.png"
+        },
+        {
+            "type": "image",
+            "src": "images/Token Art.png"
         }
     ]
 }

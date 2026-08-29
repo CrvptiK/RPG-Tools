@@ -22,15 +22,15 @@
         },
         {
             "type": "image",
-            "src": "images/Hermes Token.PNG"
-        },
-        {
-            "type": "image",
             "src": "images/Hermes_Queen of Hearts.png"
         },
         {
             "type": "image",
             "src": "images/The Reckless 7.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Token.PNG"
         }
     ]
 }
