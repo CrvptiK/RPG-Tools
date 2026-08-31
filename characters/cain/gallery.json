@@ -30,6 +30,10 @@
         },
         {
             "type": "video",
+            "src": "images/Cain - drawing challenge.mp4"
+        },
+        {
+            "type": "video",
             "src": "images/Cain - Nothing Really Matters.mp4"
         },
         {
@@ -41,12 +45,20 @@
             "src": "images/Collage.JPEG"
         },
         {
+            "type": "video",
+            "src": "images/No longer you - Cain.mp4"
+        },
+        {
             "type": "image",
             "src": "images/old token.PNG"
         },
         {
             "type": "image",
             "src": "images/Quotes.png"
+        },
+        {
+            "type": "video",
+            "src": "images/These four people meme.mp4"
         },
         {
             "type": "image",
