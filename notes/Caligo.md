@@ -110,6 +110,8 @@ Caligo Akrasia, walking in her brother’s stead is nothing like the person he o
 
 ## Various
 
+### General
+
 old character, no longer being played, canon to new Steinardt's Run
 
 **Short Term Goal**

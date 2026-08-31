@@ -848,7 +848,7 @@ function parseMarkdown(markdown) {
 
         const paragraph =
             paragraphBuffer
-                .join(" ")
+                .join("\n")
                 .trim();
 
 
@@ -922,6 +922,7 @@ function parseMarkdown(markdown) {
         paragraphBuffer = [];
 
     }
+    
 
 
     for (
@@ -1244,6 +1245,12 @@ function markdownToHtml(text) {
             /`([^`]+)`/g,
             "<code>$1</code>"
         );
+
+    result =
+        result.replace(
+            /\n/g,
+            "<br>"
+    );
 
 
     return result;

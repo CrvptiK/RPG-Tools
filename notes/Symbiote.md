@@ -56,5 +56,6 @@ Corrhin's son, who found his early death during a hunt gone wrong
 
 ## Various
 
+
 old character, no longer being played, canon to our Icewind Dale Run
 

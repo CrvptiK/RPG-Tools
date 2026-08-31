@@ -918,7 +918,7 @@ Cain never mentioned why he had stopped singing for so long, rather keeping that
 but in its way, history tends to repeat itself and after Lily's betrayal, Cain decided to never let anyone hear him sing again (which is not saying he stopped singing again, just that he did not let anyone hear it) if he did not know that they would stay
 
 
-**Rumours** 
+**Rumours**
 
 “They call him heartless”, someone’s voice piped up. Another rose to answer, “The Scarlet King does not have a heart.” Worried eyes darted around, as the person kept talking, “They say he was shot through the heart and simply kept on walking.” 
 They had no idea how close this rumour was to the truth. And yet, it could not be further from it.

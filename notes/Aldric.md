@@ -623,5 +623,6 @@ He did not look back, as he walked away, knowing that if he did, he could not fo
 
 ## Various
 
+
 Delta Green is currently paused T-T
 
