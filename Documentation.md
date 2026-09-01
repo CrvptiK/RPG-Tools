@@ -84,6 +84,14 @@ Javascript w3 <br>
 [w3schools](https://www.w3schools.com/js/) <br>
 <br>
 
+Javascript web.dev <br>
+[web.dev](https://web.dev/javascript) <br>
+<br>
+
+VSC and Tutorials YouTube Coder Coder <br>
+[Coder Coder](https://www.youtube.com/@TheCoderCoder/videos) <br>
+<br>
+
 Javascript YouTube courses <br>
 [YouTube javascript](https://youtu.be/W6NZfCO5SIk?si=Mvw9E5oCIP4Ko0VW) <br>
 [YouTube javascript extended course](https://youtu.be/EerdGm-ehJQ?si=JnJoRvYloKs_rvlx) <br>
