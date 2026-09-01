@@ -7,7 +7,10 @@
 Am I happy with my results? Yeah, pretty much <br><br>
 Of course there is several hundred things I could have done better or improve now, first and foremost my time-management and planning, my process was a mess <br><br>
 Now I am revising my documentation and questioning my sanity (and my horrid note-taking, what was I thinking?!) <br>
-But as of now, most things are done and functioning, so I am quite happy <br>
+But as of now, most things are done and functioning, so I am quite happy <br><br>
+My biggest archievement oughta be the semi-automatic character and image import, I merely have to put some notes into a markdown template, and import-characters 
+(javascript) builds character folders, an imbetted images folder and the character json, using the character html template to build the page and watch and generate 
+galleries handle my media files, now accepting mp4 too, rather than only img files :)) <br>
 
 
 <br>
