@@ -10,11 +10,23 @@
         },
         {
             "type": "image",
+            "src": "images/Masquerade Art.png"
+        },
+        {
+            "type": "image",
+            "src": "images/Outfits assortments.png"
+        },
+        {
+            "type": "image",
             "src": "images/Token default.PNG"
         },
         {
             "type": "image",
             "src": "images/Token Masked.PNG"
+        },
+        {
+            "type": "image",
+            "src": "images/Visual Changes over time.png"
         },
         {
             "type": "image",

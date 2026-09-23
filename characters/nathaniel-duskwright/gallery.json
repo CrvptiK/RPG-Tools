@@ -2,6 +2,10 @@
     "media": [
         {
             "type": "image",
+            "src": "images/another one.png"
+        },
+        {
+            "type": "image",
             "src": "images/Collage.jpg"
         },
         {
